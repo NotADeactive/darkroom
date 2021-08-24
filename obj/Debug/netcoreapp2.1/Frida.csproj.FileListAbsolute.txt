@@ -1,0 +1,24 @@
+E:\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Frida.deps.json
+E:\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Frida.runtimeconfig.json
+E:\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Frida.runtimeconfig.dev.json
+E:\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Frida.dll
+E:\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Frida.pdb
+E:\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Frida.csprojAssemblyReference.cache
+E:\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Frida.csproj.CoreCompileInputs.cache
+E:\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Frida.AssemblyInfoInputs.cache
+E:\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Frida.AssemblyInfo.cs
+E:\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Frida.dll
+E:\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Frida.pdb
+D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\Frida.deps.json
+D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\Frida.runtimeconfig.json
+D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\Frida.runtimeconfig.dev.json
+D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\Frida.dll
+D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\Frida.pdb
+D:\Darkroom(old frida)\Template\obj\Debug\netcoreapp2.1\Frida.csprojAssemblyReference.cache
+D:\Darkroom(old frida)\Template\obj\Debug\netcoreapp2.1\Frida.csproj.CoreCompileInputs.cache
+D:\Darkroom(old frida)\Template\obj\Debug\netcoreapp2.1\Frida.AssemblyInfoInputs.cache
+D:\Darkroom(old frida)\Template\obj\Debug\netcoreapp2.1\Frida.AssemblyInfo.cs
+D:\Darkroom(old frida)\Template\obj\Debug\netcoreapp2.1\Frida.dll
+D:\Darkroom(old frida)\Template\obj\Debug\netcoreapp2.1\Frida.pdb

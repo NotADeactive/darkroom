@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Frida</id>
+    <version>1.0.0</version>
+    <authors>Frida</authors>
+    <owners>Frida</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Discord.Addons.Hosting" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net.Commands" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net.Core" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net.WebSocket" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="3.1.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="3.1.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="3.1.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="3.1.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\Frida.runtimeconfig.json" target="lib\netcoreapp2.1\Frida.runtimeconfig.json" />
+    <file src="D:\Darkroom(old frida)\Template\bin\Debug\netcoreapp2.1\Frida.dll" target="lib\netcoreapp2.1\Frida.dll" />
+  </files>
+</package>

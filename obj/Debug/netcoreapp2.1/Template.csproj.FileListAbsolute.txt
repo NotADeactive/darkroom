@@ -1,0 +1,12 @@
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Template.deps.json
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Template.runtimeconfig.json
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Template.runtimeconfig.dev.json
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Template.dll
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\bin\Debug\netcoreapp2.1\Template.pdb
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Template.csproj.CoreCompileInputs.cache
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Template.AssemblyInfoInputs.cache
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Template.AssemblyInfo.cs
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Template.dll
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Template.pdb
+C:\Users\amirm\OneDrive\Documents\Discord.NET-Template-1.0.0\Template\obj\Debug\netcoreapp2.1\Template.csprojAssemblyReference.cache
